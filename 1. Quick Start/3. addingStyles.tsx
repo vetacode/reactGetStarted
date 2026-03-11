@@ -1,1 +1,6 @@
 <img className='avatar' />;
+
+/* In your CSS */
+// .avatar {
+//   border-radius: 50%;
+// }
