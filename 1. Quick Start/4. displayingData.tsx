@@ -40,3 +40,5 @@ export default function Profile() {
   );
 }
 }
+
+//"{}"" is a regular object inside JSX curly braces "style={} 
